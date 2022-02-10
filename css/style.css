@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbar{
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    
+}
+ul{
+   list-style: none;
+   
+}
+#header{
+    padding-top: 3rem ;
+    padding-bottom: 3rem ;
+}
+.col-lg-4 .box-header{
+    padding: 0.5rem 1rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(214, 9, 9, 0.125);
+}
+.col-lg-4 .box-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+  }
+
+  #footer{
+    padding-top: 3rem ;
+    padding-bottom: 3rem ;
+  }
